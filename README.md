@@ -1,2 +1,2 @@
 # Sunset-GTK
-Sunset GTK theme rebuild; ETA - unknown
+Placeholder for Sunset GTK theme rebuild; ETA - unknown
